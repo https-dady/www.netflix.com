@@ -47,10 +47,9 @@
 }
 
 .cards ul li span {
-    height: 30px;
     position: absolute;
-    bottom: 77px;
-    left: 0px;
+    top: 145px;
+    left: -10px;
     z-index: 10;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
